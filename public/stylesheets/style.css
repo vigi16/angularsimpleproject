@@ -1,0 +1,32 @@
+body{
+	background-image:url('http://amandaandrewsphotography.com/v1site_images/backgrounds/site%20background.jpg');
+}
+
+footer{
+	background:#333;
+	color:#fff;
+	height:40px;
+	padding-top:10px;
+	text-align: center;
+	margin-top:30px;
+}
+
+.navbar-inverse .navbar-brand {
+	background:#A2F32E;
+}
+.navbar-inverse{
+	background:#E8ED0C;
+	border-color: #E8ED0C;
+}
+.heading{
+	background:#11C358;
+	color:#fff;
+	padding: 5px;
+}
+
+.article{
+	border-bottom:#ccc solid 1px;
+	margin-bottom:10px;
+	padding-bottom:10px;
+}
+
